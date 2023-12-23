@@ -3,9 +3,9 @@
 **Technical Skills: Python, Pandas, Numpy, Matplotlib, SQL, Tableau**
 
 ### Education
-M.S., Information Technology
-M.E., Communication Networks
-B.E., Electronics and Tele-Communication
+M.S., Information Technology <br>
+M.E., Communication Networks <br>
+B.E., Electronics and Tele-Communication <br>
 
 ### Projects
 **Covid19 Data Exploration and Visualization**
